@@ -3,8 +3,9 @@ description with screens.
 github: 
 
 stack of technologies:  
-	*back-end: 	web Services  .aspx,  asp.net WinForms,  SQL server (for storage data),  SourceTree (for github).
-	*front-end:  	winForms
+
+* back-end: 	__web Services  .aspx,  asp.net WinForms,  SQL server (for storage data),  SourceTree (for github).__
+* front-end:  	__winForms__
 
 about: 
 >___this is a simple project for demonstrated relation between Server and client Consumer through Web Services based on the soap protocol.___
