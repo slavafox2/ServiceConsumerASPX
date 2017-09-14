@@ -1,0 +1,8 @@
+﻿<root>
+  <Days_List>
+    <Number>3</Number>
+    <Name Name="Понедельник">Понедельник</Name>
+    <Name Name="Вторник">Вторник</Name>
+    <Name Name="Среда">Среда</Name>
+  </Days_List>
+</root>
